@@ -1,0 +1,3 @@
+﻿  test.c
+D:\c\2022年2月\2_2\test.c(24,16): warning C4477: “printf”: 格式字符串“%.1f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+  2_2.vcxproj -> D:\c\2022年2月\2_2\Debug\2_2.exe
