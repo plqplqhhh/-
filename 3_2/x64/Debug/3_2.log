@@ -1,0 +1,6 @@
+﻿  test.c
+C:\c-cod\2022年2月\3_2\test.c(66,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\c-cod\2022年2月\3_2\test.c(68,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\c-cod\2022年2月\3_2\test.c(75,17): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+C:\c-cod\2022年2月\3_2\test.c(77,12): warning C4477: “printf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  3_2.vcxproj -> C:\c-cod\2022年2月\3_2\x64\Debug\3_2.exe
