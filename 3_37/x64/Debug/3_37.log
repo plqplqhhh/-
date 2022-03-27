@@ -1,0 +1,6 @@
+﻿  contact.c
+C:\c-cod\2022年3月\3_37\contact.c(59,35): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+C:\c-cod\2022年3月\3_37\contact.c(59,32): warning C4024: “strcmp”: 形参和实参 2 的类型不同
+C:\c-cod\2022年3月\3_37\contact.c(75,26): warning C4047: “函数”:“char”与“char [20]”的间接级别不同
+C:\c-cod\2022年3月\3_37\contact.c(75,22): warning C4024: “search”: 形参和实参 2 的类型不同
+  3_37.vcxproj -> C:\c-cod\2022年3月\3_37\x64\Debug\3_37.exe
