@@ -1,0 +1,3 @@
+﻿  test.c
+C:\c-cod\2022年4月\4_20.1\test.c(36,14): warning C4047: “=”:“int *”与“int **”的间接级别不同
+  4_20.1.vcxproj -> C:\c-cod\2022年4月\4_20.1\x64\Debug\4_20.1.exe
