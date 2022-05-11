@@ -1,0 +1,9 @@
+﻿  List.c
+C:\c-cod\2022年5月\5_11\List.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\c-cod\2022年5月\5_11\List.h(2,13): warning C4081: 应输入“newline”；找到“;”
+  test.c
+C:\c-cod\2022年5月\5_11\List.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\c-cod\2022年5月\5_11\List.h(2,13): warning C4081: 应输入“newline”；找到“;”
+  正在生成代码...
+C:\c-cod\2022年5月\5_11\List.c(93): warning C4715: “ListFind”: 不是所有的控件路径都返回值
+  5_11.vcxproj -> C:\c-cod\2022年5月\5_11\x64\Debug\5_11.exe
