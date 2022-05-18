@@ -1,0 +1,3 @@
+﻿  Heap.c
+C:\c-cod\2022年5月\5_18\Heap.c(9,53): warning C4133: “=”: 从“HP *”到“HPDataType *”的类型不兼容
+  5_18.vcxproj -> C:\c-cod\2022年5月\5_18\x64\Debug\5_18.exe
