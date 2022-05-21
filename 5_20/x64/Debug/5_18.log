@@ -1,0 +1,6 @@
+﻿  Heap.c
+  test.c
+C:\c-cod\2022年5月\5_20\test.c(23,13): warning C4047: “函数”:“int *”与“int (*)[9]”的间接级别不同
+C:\c-cod\2022年5月\5_20\test.c(23,11): warning C4024: “HeapSort”: 形参和实参 1 的类型不同
+  正在生成代码...
+  5_18.vcxproj -> C:\c-cod\2022年5月\5_20\x64\Debug\5_18.exe
