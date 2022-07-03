@@ -1,0 +1,21 @@
+﻿  Sort.c
+  Stack.c
+  test.c
+C:\c-cod\2022年7月\7_2\test.c(6,17): warning C4047: “函数”:“int *”与“int (*)[9]”的间接级别不同
+C:\c-cod\2022年7月\7_2\test.c(6,13): warning C4024: “SelectSort”: 形参和实参 1 的类型不同
+C:\c-cod\2022年7月\7_2\test.c(13,17): warning C4047: “函数”:“int *”与“int (*)[9]”的间接级别不同
+C:\c-cod\2022年7月\7_2\test.c(13,13): warning C4024: “BubbleSort”: 形参和实参 1 的类型不同
+C:\c-cod\2022年7月\7_2\test.c(20,15): warning C4047: “函数”:“int *”与“int (*)[9]”的间接级别不同
+C:\c-cod\2022年7月\7_2\test.c(20,11): warning C4024: “HeapSort”: 形参和实参 1 的类型不同
+C:\c-cod\2022年7月\7_2\test.c(26,17): warning C4047: “函数”:“int *”与“int (*)[9]”的间接级别不同
+C:\c-cod\2022年7月\7_2\test.c(26,13): warning C4024: “InsertSort”: 形参和实参 1 的类型不同
+C:\c-cod\2022年7月\7_2\test.c(32,16): warning C4047: “函数”:“int *”与“int (*)[9]”的间接级别不同
+C:\c-cod\2022年7月\7_2\test.c(32,12): warning C4024: “ShellSort”: 形参和实参 1 的类型不同
+C:\c-cod\2022年7月\7_2\test.c(38,16): warning C4047: “函数”:“int *”与“int (*)[10]”的间接级别不同
+C:\c-cod\2022年7月\7_2\test.c(38,12): warning C4024: “QuickSort”: 形参和实参 1 的类型不同
+C:\c-cod\2022年7月\7_2\test.c(38,62): warning C4020: “QuickSort”: 实参太多
+C:\c-cod\2022年7月\7_2\test.c(45,20): warning C4047: “函数”:“int *”与“int (*)[10]”的间接级别不同
+C:\c-cod\2022年7月\7_2\test.c(45,16): warning C4024: “QuickSortNonR”: 形参和实参 1 的类型不同
+C:\c-cod\2022年7月\7_2\test.c(45,66): warning C4020: “QuickSortNonR”: 实参太多
+  正在生成代码...
+  7_2.vcxproj -> C:\c-cod\2022年7月\7_2\x64\Debug\7_2.exe
