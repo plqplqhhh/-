@@ -52,8 +52,24 @@ void SortTest8()
 	MergeSort(&arr,sizeof(arr)/sizeof(arr[0]));
 	Print(arr, sizeof(arr) / sizeof(0));
 }
+
+void SortTest9()
+{
+	int arr[] = { 6,1,2,7,9,3,4,5,10,8 };
+	MergeSortNonR(&arr, sizeof(arr) / sizeof(arr[0]));
+	Print(arr, sizeof(arr) / sizeof(0));
+}
+
+void SortTest10()
+{
+	int arr[] = { 6,1,2,7,9,3,4,5,10,8 };
+	void CountSort(int* a, int n);							// ¼ÆÊýÅÅÐò
+	(&arr, sizeof(arr) / sizeof(arr[0]));
+	Print(arr, sizeof(arr) / sizeof(0));
+}
+
 int main()
 {
-	SortTest8();
+	SortTest10();
 	return 0;
 }

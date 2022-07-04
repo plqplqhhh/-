@@ -1,4 +1,2 @@
 ﻿  Sort.c
-C:\c-cod\2022年7月\7_3\Sort.h(1,1): warning C4828: 文件包含在偏移 0x412 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-C:\c-cod\2022年7月\7_3\Sort.c(312,2): warning C4013: “memcpy”未定义；假设外部返回 int
   7_3.vcxproj -> C:\c-cod\2022年7月\7_3\x64\Debug\7_3.exe
