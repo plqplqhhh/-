@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\c++code\2022年8月\8-11\8-11\test.cpp(47,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++code\2022年8月\8-11\8-11\test.cpp(48,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++code\2022年8月\8-11\8-11\test.cpp(75,17): warning C4552: ”/“: 未使用表达式结果
+  8-11.vcxproj -> D:\c++code\2022年8月\8-11\x64\Debug\8-11.exe
