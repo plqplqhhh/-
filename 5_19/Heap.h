@@ -15,30 +15,23 @@ typedef struct Heap
 	int capacity;
 }HP;
 
-void HeapInit(HP* php);						//³õÊ¼»¯
-void HeapDestroy(HP* php);					//Ïú»Ù
+void HeapInit(HP* php);						//åˆå§‹åŒ–
+void HeapDestroy(HP* php);					//é”€æ¯
 
-void HeapPrint(HP* php);					//´òÓ¡
+void HeapPrint(HP* php);					//æ‰“å°
 
-void Swap(HPDataType* x, HPDataType* y);	//½»»»
-void AdjustUp(HPDataType* data ,int child);	//ÏòÉÏµ÷Õû(´ó¸ù¶Ñ)
-void AdjustDown(HPDataType* data, int size, int father);//ÏòÏÂµ÷Õû
+void Swap(HPDataType* x, HPDataType* y);	//äº¤æ¢
+void AdjustUp(HPDataType* data ,int child);	//å‘ä¸Šè°ƒæ•´(å¤§æ ¹å †)
+void AdjustDown(HPDataType* data, int size, int father);//å‘ä¸‹è°ƒæ•´
 
 
-void HeapPush(HP* php, HPDataType x);		//²åÈë
-void HeaPop(HP* php);						//É¾³ı	
-HPDataType HeapTop(HP* php);				//È¡¶¥
-bool HeapEmpty(HP* php);					//ÅĞ¿Õ
-int HeapSize(HP* php);						//È¡´óĞ¡
+void HeapPush(HP* php, HPDataType x);		//æ’å…¥
+void HeaPop(HP* php);						//åˆ é™¤	
+HPDataType HeapTop(HP* php);				//å–é¡¶
+bool HeapEmpty(HP* php);					//åˆ¤ç©º
+int HeapSize(HP* php);						//å–å¤§å°
 
 
 void HeapSort(int* data, int size);
-
-
-// TopKÎÊÌâ£ºÕÒ³öN¸öÊıÀïÃæ×î´ó/×îĞ¡µÄÇ°K¸öÎÊÌâ¡£
-// ±ÈÈç£ºÎ´ÑëÇøÅÅÃûÇ°10µÄÅİâÉ£¬Î÷°²½»Í¨´óÑ§ÍõÕßÈÙÒ«ÅÅÃûÇ°10µÄº«ĞÅ£¬È«¹úÅÅÃûÇ°10µÄÀî°×¡£µÈµÈÎÊÌâ¶¼ÊÇTopkÎÊÌâ£¬
-// ĞèÒª×¢Òâ£º
-// ÕÒ×î´óµÄÇ°K¸ö£¬½¨Á¢K¸öÊıµÄĞ¡¶Ñ
-// ÕÒ×îĞ¡µÄÇ°K¸ö£¬½¨Á¢K¸öÊıµÄ´ó¶Ñ
 void PrintTopK(int* a, int n, int k);
 void TestTopk();
